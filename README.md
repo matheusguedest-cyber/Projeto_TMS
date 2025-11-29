@@ -66,4 +66,5 @@ O sistema tem como finalidade gerenciar operações relacionadas ao transporte, 
 ## 📚 Autor
 
 **Matheus Guedes Torres**
+
 Projeto desenvolvido como atividade acadêmica na disciplina de Modelagem de Banco de Dados.
